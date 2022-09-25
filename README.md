@@ -9,13 +9,13 @@
 </ul> 
 </br>
 </br>
-<p>generate the image  </p>
+# generate the image 
 <p>  docker build -t docker_tomcat .</p>
 
-<p>generate the container and release the port </p>
+# generate the container and release the port  
   docker run -it -p 8787:8080 docker_tomcat</p>
 
-<p>generate the conainder and stay logged into the server </p>
+#  generate the conainder and stay logged into the server  
 <p>  docker container run -it docker_tomcat:latest bash</p>
 </br>
 </br>
