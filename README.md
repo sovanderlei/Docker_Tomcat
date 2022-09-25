@@ -9,6 +9,17 @@
 </ul> 
 </br>
 </br>
+<p>generate the image  </p>
+<p>  docker build -t docker_tomcat .</p>
+
+<p>generate the container and release the port </p>
+  docker run -it -p 8787:8080 docker_tomcat</p>
+
+<p>generate the conainder and stay logged into the server </p>
+<p>  docker container run -it docker_tomcat:latest bash</p>
+</br>
+</br>
+
 <p>Following images of the examples:</p> 
  <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker001.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
