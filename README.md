@@ -9,34 +9,27 @@
 </ul> 
 </br>
 </br>
-<p>Following images of the examples:</p>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/mysql.PNG" style="width:800px;height:600px;" 
+<p>Following images of the examples:</p> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker001.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularLogin.PNG" style="width:800px;height:600px;" 
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker002.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularDashboard.PNG" style="width:800px;height:600px;" 
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker003.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularChatsuspenso.PNG" style="width:800px;height:600px;" 
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker004.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularChatServer.PNG" style="width:800px;height:600px;" 
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker005.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularChatOrder01.PNG" style="width:800px;height:600px;" 
+</br> 
+ <img src="https://github.com/sovanderlei/Docker_Tomcat/blob/main/image/docker006.PNG" style="width:800px;height:600px;" 
 alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularChatOrder02.PNG" style="width:800px;height:600px;" 
-alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularCadastro.PNG" style="width:800px;height:600px;" 
-alt="Minha Figura">
-</br>
- <img src="https://github.com/sovanderlei/AngularStoreFront/blob/main/src/assets/images/AngularReportDynamic.PNG" style="width:800px;height:600px;" 
-alt="Minha Figura">
-</br>  
+</br> 
+</br> 
+</br> 
 
 #  Docker File
 <p>For those who are absolute beginners in the Docker ecosystem, here are some of the explanations for the terms used in the docker file.
